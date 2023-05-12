@@ -1,6 +1,9 @@
 # Questão 70 AGENTE DE TECNOLOGIA - Microrregião 158 - TI (Banco do Brasil)
+## Gabarito 5
 
 Concurso referente ao [EDITAL Nº 01 - 2022/001](https://www.cesgranrio.org.br/concursos/evento.aspx?id=bb0122&utm_source=PortalBB&utm_medium=PaginaConcurso)
+
+É possível perceber que a resposta é dada com um espaço em branco no começo (código copiado e colado em qualquer editor de texto/IDE)
 
 ## Alternativa A
 
